@@ -1,6 +1,6 @@
 # Hacktoberfest Census
 
-A census of those participating in Hacktoberfest 2017 (and an easy PR!)
+A census of those participating in the Hacktoberfest 2017 (and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census), it's automatically updated every time a PR is accepted!
 
@@ -9,7 +9,7 @@ This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Ce
 ---
 
 ### Contributing
-Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a Pull Request to add your name to this repository like so..
+Fork this project and add your username + profile link to [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
 [Cutwell](https://github.com/Cutwell)
 ```
@@ -20,6 +20,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
  - [vicennial](https://github.com/vicennial)
+ - [Harsh723gupta](https://github.com/harsh723gupta)
  - [pmdamora](https://github.com/pmdamora)
  - [Vyautask](https://github.com/vytautask)
  - [Frewacom](https://github.com/Frewacom)
